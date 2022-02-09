@@ -1,0 +1,26 @@
+.navbar-search {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+    padding: .5rem 0;
+}
+
+.navbar-search-icon {
+    background-color: #e603b8;
+    background-image: linear-gradient(43deg, #e603b8 0%, #b000ff 46%, #b608c9 100%);
+    ;
+    padding: 10px;
+}
+
+i {
+    color: white;
+}
+
+input {
+    padding: 10px;
+}
